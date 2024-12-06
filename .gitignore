@@ -1,0 +1,15 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE-specific files (IntelliJ, Eclipse, etc.)
+.idea/
+.vscode/
+*.iml
+
+# Ignore build directories (for Maven, Gradle, etc.)
+target/
+bin/
+
+# Ignore system files
+.DS_Store   # macOS
+Thumbs.db   # Windows
